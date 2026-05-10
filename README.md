@@ -22,7 +22,7 @@ The dashboard includes the following KPIs:
 - Purple Cap Winner
 - Points Table Rankings
 - Team-wise Performance Statistics
-- 
+  
 # 📷 Dashboard Preview
 
   <a href = "https://github.com/Nimishaa6/IPL-2025-Data-Analytics-Dashboard/blob/main/dashboard-overview.png"> view Dashboard</a>
