@@ -1,6 +1,6 @@
 # 🏏 IPL Data Analytics Dashboard
 
-An interactive Power BI dashboard created to analyze IPL 2025 statistics, team performance, and player insights using real-world cricket data.
+An interactive Power BI dashboard created to analyze IPL statistics from 2008 to 2025, including team performance, player insights, season trends, and match analytics using real-world cricket datasets.
 
 # Dataset used
 
@@ -30,7 +30,7 @@ The dashboard includes the following KPIs:
 # ⚙️ Project Process
 
 ## 1. Data Collection
-Collected IPL 2025 data from online cricket datasets and CSV files.
+Collected IPL datasets from online cricket databases and CSV files covering IPL seasons from 2008 to 2025.
 
 ## 2. Data Cleaning
 Performed data cleaning using:
@@ -95,9 +95,9 @@ Generated insights related to:
 - The project demonstrated how sports data can be transformed into meaningful business insights using Power BI.
 - Dashboard interactivity helped users analyze performance efficiently and make data-driven observations.
 
-  # Final Conclusion
+# Final Conclusion
 
-The IPL 2025 Data Analytics Dashboard successfully transformed raw cricket data into meaningful and interactive visual insights using Power BI. The project helped analyze team performance, player statistics, match trends, and season highlights through KPIs and data visualization techniques.
+The IPL Data Analytics Dashboard (2008–2025) successfully transformed raw cricket datasets into meaningful and interactive visual insights using Power BI. The project analyzed team performance, player statistics, season trends, and match analytics through advanced KPIs and visualization techniques.
 
 By working on this project, I gained practical experience in:
 - Data Cleaning
@@ -107,4 +107,4 @@ By working on this project, I gained practical experience in:
 - Dashboard Designing
 - Business Insight Generation
 
-This project strengthened my understanding of real-world data analytics workflows and improved my ability to create professional, interactive dashboards for decision-making and performance analysis.
+This project strengthened my understanding of real-world data analytics workflows and improved my ability to create professional and interactive dashboards for sports analytics and decision-making.
