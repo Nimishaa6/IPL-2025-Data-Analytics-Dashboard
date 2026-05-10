@@ -84,3 +84,27 @@ Generated insights related to:
 # 📷 Dashboard Preview
 <img width="1442" height="795" alt="dashboard-overview" src="https://github.com/user-attachments/assets/fa43ce06-647f-4d6f-a631-251abfa6e787" />
 
+# 📈 Project Insights
+
+- Mumbai Indians and Royal Challengers Bengaluru showed strong overall performance during the season.
+- The dashboard helped identify the top-performing batsmen and bowlers using Orange Cap and Purple Cap statistics.
+- Teams with higher boundary counts (4s & 6s) generally achieved better match results.
+- Interactive filters made it easy to compare team and player performance across the tournament.
+- KPI analysis provided quick insights into total matches, centuries, half-centuries, and overall season statistics.
+- Data visualization improved the understanding of team rankings and match trends.
+- The project demonstrated how sports data can be transformed into meaningful business insights using Power BI.
+- Dashboard interactivity helped users analyze performance efficiently and make data-driven observations.
+
+  # Final Conclusion
+
+The IPL 2025 Data Analytics Dashboard successfully transformed raw cricket data into meaningful and interactive visual insights using Power BI. The project helped analyze team performance, player statistics, match trends, and season highlights through KPIs and data visualization techniques.
+
+By working on this project, I gained practical experience in:
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX Calculations
+- Dashboard Designing
+- Business Insight Generation
+
+This project strengthened my understanding of real-world data analytics workflows and improved my ability to create professional, interactive dashboards for decision-making and performance analysis.
